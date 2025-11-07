@@ -8,9 +8,12 @@ Requirements:    1. SQL Server 2022
 Overview:   This project showcases a real-time retail analytics dashboard built using Power BI’s DirectQuery mode, connected to an on-premises SQL Server. It empowers retail stakeholders to monitor sales, inventory, and customer behavior with live data, AI-powered forecasting, and anomaly detection. The dashboard is designed with advanced DAX logic, interactive visuals, and governed access controls, making it both insightful and secure.
 
 Used for:    		1. Instantly detect sales spikes or inventory shortages.
-                2. Forecast demand and plan promotions.
-								3. Drill into store-level or product-level performance.
-								4. Make faster, data-driven decisions for business improvements.
+                    2. Forecast demand and plan promotions.
+					3. Drill into store-level or product-level performance.
+					4. Make faster, data-driven decisions for business improvements.
+
+
+Dataset URL: https://www.kaggle.com/datasets/srijanrawat86/swiggy-data-set
 
 
 
